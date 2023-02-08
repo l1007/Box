@@ -10,11 +10,13 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.IntentFilter;
+import android.graphics.Paint;
 import android.graphics.drawable.Icon;
 import android.os.Build;
 import android.os.Bundle;
 import android.text.Html;
 import android.text.TextUtils;
+import android.util.Rational;
 import android.view.KeyEvent;
 import android.view.View;
 import android.view.ViewGroup;
@@ -119,6 +121,7 @@ public class DetailActivity extends BaseActivity {
     boolean seriesSelect = false;
     private View seriesFlagFocus = null;
     private HashMap<String, String> mCheckSources = null;
+    private V7GridLayoutManager mGridViewLayoutMgr = null;
 
     private BroadcastReceiver pipActionReceiver;
     private static final int PIP_BOARDCAST_ACTION_PREV = 0;
@@ -164,8 +167,10 @@ public class DetailActivity extends BaseActivity {
         tvPlayUrl = findViewById(R.id.tvPlayUrl);
         mEmptyPlayList = findViewById(R.id.mEmptyPlaylist);
         mGridView = findViewById(R.id.mGridView);
-        mGridView.setHasFixedSize(true);
-        mGridView.setLayoutManager(new V7GridLayoutManager(this.mContext, isBaseOnWidth() ? 6 : 7));
+        mGridView.setHasFixedSize(false);
+        mGridViewLayoutMgr = new V7GridLayoutManager(this.mContext, 6);
+        mGridView.setLayoutManager(mGridViewLayoutMgr);
+//        mGridView.setLayoutManager(new V7GridLayoutManager(this.mContext, isBaseOnWidth() ? 6 : 7));
         seriesAdapter = new SeriesAdapter();
         mGridView.setAdapter(seriesAdapter);
         mGridViewFlag = findViewById(R.id.mGridViewFlag);
@@ -422,6 +427,24 @@ public class DetailActivity extends BaseActivity {
             if (canSelect)
                 vodInfo.seriesMap.get(vodInfo.playFlag).get(vodInfo.playIndex).selected = true;
         }
+
+        // Dynamic series list width
+        Paint pFont = new Paint();
+        List<VodInfo.VodSeries> list = vodInfo.seriesMap.get(vodInfo.playFlag);
+        int listSize = list.size();
+        int w = 1;
+        for (int i = 0; i < listSize; ++i) {
+            String name = list.get(i).name;
+            if (w < (int) pFont.measureText(name)) {
+                w = (int) pFont.measureText(name);
+            }
+        }
+        w += 32;
+        int screenWidth = getWindowManager().getDefaultDisplay().getWidth() / 3;
+        int offset = screenWidth / w;
+        if (offset <= 2) offset = 2;
+        if (offset > 6) offset = 6;
+        mGridViewLayoutMgr.setSpanCount(offset);
 
         seriesAdapter.setNewData(vodInfo.seriesMap.get(vodInfo.playFlag));
         mGridView.postDelayed(new Runnable() {
@@ -763,17 +786,31 @@ public class DetailActivity extends BaseActivity {
         EventBus.getDefault().unregister(this);
     }
 
-    boolean PIP = Hawk.get(HawkConfig.PIC_IN_PIC, false);
+    boolean PiPON = Hawk.get(HawkConfig.PIC_IN_PIC, false);
 
     @Override
     public void onUserLeaveHint() {
         // takagen99 : Additional check for external player
-        if (supportsPiPMode() && showPreview && !playFragment.extPlay && PIP) {
+        if (supportsPiPMode() && showPreview && !playFragment.extPlay && PiPON) {
+            // Calculate Video Resolution
+            int vWidth = playFragment.mVideoView.getVideoSize()[0];
+            int vHeight = playFragment.mVideoView.getVideoSize()[1];
+            Rational ratio = null;
+            if (vWidth != 0) {
+                if ((((double) vWidth) / ((double) vHeight)) > 2.39) {
+                    vHeight = (int) (((double) vWidth) / 2.35);
+                }
+                ratio = new Rational(vWidth, vHeight);
+            } else {
+                ratio = new Rational(16, 9);
+            }
             List<RemoteAction> actions = new ArrayList<>();
             actions.add(generateRemoteAction(android.R.drawable.ic_media_previous, PIP_BOARDCAST_ACTION_PREV, "Prev", "Play Previous"));
             actions.add(generateRemoteAction(android.R.drawable.ic_media_play, PIP_BOARDCAST_ACTION_PLAYPAUSE, "Play", "Play/Pause"));
             actions.add(generateRemoteAction(android.R.drawable.ic_media_next, PIP_BOARDCAST_ACTION_NEXT, "Next", "Play Next"));
-            PictureInPictureParams params = new PictureInPictureParams.Builder().setActions(actions).build();
+            PictureInPictureParams params = new PictureInPictureParams.Builder()
+                    .setAspectRatio(ratio)
+                    .setActions(actions).build();
             if (!fullWindows) {
                 toggleFullPreview();
             }
@@ -813,7 +850,7 @@ public class DetailActivity extends BaseActivity {
                     } else if (currentStatus == PIP_BOARDCAST_ACTION_PLAYPAUSE) {
                         playFragment.getVodController().togglePlay();
                     } else if (currentStatus == PIP_BOARDCAST_ACTION_NEXT) {
-                        playFragment.playNext();
+                        playFragment.playNext(false);
                     }
                 }
             };
@@ -868,11 +905,11 @@ public class DetailActivity extends BaseActivity {
     // preview : true 开启 false 关闭
     VodInfo previewVodInfo = null;
     boolean showPreview = Hawk.get(HawkConfig.SHOW_PREVIEW, true);
-    boolean fullWindows = false;
+    public boolean fullWindows = false;
     ViewGroup.LayoutParams windowsPreview = null;
     ViewGroup.LayoutParams windowsFull = null;
 
-    void toggleFullPreview() {
+    public void toggleFullPreview() {
         if (windowsPreview == null) {
             windowsPreview = llPlayerFragmentContainer.getLayoutParams();
         }
