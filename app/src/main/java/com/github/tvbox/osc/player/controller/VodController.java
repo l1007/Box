@@ -233,7 +233,7 @@ public class VodController extends BaseController {
     LinearLayout mSpeedll;
 
     // pause container
-    FrameLayout mProgressTop;
+    public static FrameLayout mProgressTop;
     ImageView mPauseIcon;
     LinearLayout mTapSeek;
 
@@ -308,6 +308,12 @@ public class VodController extends BaseController {
             mBottomRoot.requestLayout();
         }
     };
+
+    @Override
+    protected void onDetachedFromWindow() {
+        super.onDetachedFromWindow();
+        mHandler.removeCallbacks(mTimeRunnable);
+    }
 
     @Override
     protected void initView() {
@@ -831,6 +837,7 @@ public class VodController extends BaseController {
                     mTopRoot.setVisibility(GONE);
                     mBottomRoot.setVisibility(GONE);
                     mBack.setVisibility(GONE);
+                    mProgressTop.setVisibility(INVISIBLE);
                     mHandler.removeCallbacks(mHideBottomRunnable);
                     ((DetailActivity) mActivity).toggleFullPreview();
                 } else {
@@ -887,8 +894,8 @@ public class VodController extends BaseController {
             mPlayerTimeStartBtn.setText(PlayerUtils.stringForTime(mPlayerConfig.getInt("st") * 1000));
             mPlayerTimeSkipBtn.setText(PlayerUtils.stringForTime(mPlayerConfig.getInt("et") * 1000));
             mPlayerTimeStepBtn.setText(Hawk.get(HawkConfig.PLAY_TIME_STEP, 5) + "s");
-            mSubtitleBtn.setVisibility(playerType == 1 ? VISIBLE : GONE);
-            mAudioTrackBtn.setVisibility(playerType == 1 ? VISIBLE : GONE);
+//            mSubtitleBtn.setVisibility(playerType == 1 ? VISIBLE : GONE);
+//            mAudioTrackBtn.setVisibility(playerType == 1 ? VISIBLE : GONE);
         } catch (JSONException e) {
             e.printStackTrace();
         }
