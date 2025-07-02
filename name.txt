@@ -1,5 +1,76 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Premier League 1 (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=go_assp1
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Premier League 2 (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=go_assp2
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Grandstand (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=go_assp3
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Football (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=go_assp4
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Sports Plus (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=go_sportsplus
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Badminton 1 (sma)
+http://haoyunlai.serv00.net/Smartv-1.php?id=go_badminton1
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Badminton 1 (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=go_badminton1
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Badminton 2 (sma)
+http://haoyunlai.serv00.net/Smartv-1.php?id=go_badminton2
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Badminton 2 (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=go_badminton2
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",W-Sports (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=go_assp5
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Beinsports 1 (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=Astrobein1
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Beinsports 2 (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=Astrobein2
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Beinsports 3 (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=Astrobein3
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Golf (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=Agolf
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Fight Sports (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=Fs
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",NBA TV (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=Nba
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Rugby Pass TV (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=Rugbypasstv
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",SPOTV (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=Spotv1
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",SPOTV2 (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=Spotv2
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",WWE (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=Wwe
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Arena (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=Arena
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Arena 2 (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=Arena2
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",BolaArena 1 (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=Bolaarena1
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",BolaArena 2 (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=Bolaarena2
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",CCTV-5 (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=cctv5
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",CCTV-5+ (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=cctv5plus
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",爱尔达体育1台 (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=eltasport_twn
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",爱尔达体育2台 (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=eltasport2_twn
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",爱尔达体育3台 (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=eltasport3_twn
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",爱尔达体育4台 (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=natgeowild_twn
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",TNT Sports 2 (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=d9a76a79cc
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",TNT Sports 3 (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=5fea4d73db
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Sky Sports F1 (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=tiankongf1
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Sky Sports EPL (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=tiankongepl
+#EXTINF:-1 group-title="SPORT HAO" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Sky Sports Mix (hao)
+http://haoyunlai.serv00.net/Smartv-1.php?id=tiankongmix
+
 #EXTINF:-1 group-logo="https://iili.io/31b53AB.png" tvg-logo="https://iili.io/31b53AB.png" group-title="00.LIVE EVENT", BRFID YOUTUBE CHANNEL
 https://www.youtube.com/@BRFID_YT
 
