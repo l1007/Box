@@ -253,6 +253,315 @@ http://goldv3.me:2082/live/drmtv43_476893/YFCPfQ3M/1058040.m3u8
 #EXTINF:-1 group-title="00.LIVE EVENT"  tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", WORLD CUP CLUB 13
 http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8
 
+#EXTM3U
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",华丽翡翠
+http://live.catvod.com/smart.php?id=Tvbjade
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",翡翠台
+http://live.catvod.com/smart.php?id=Jade_xue
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",翡翠台
+http://live.catvod.com/smart.php?id=jade_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",TVB Plus
+http://live.catvod.com/smart.php?id=j2_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",明珠台
+http://live.catvod.com/smart.php?id=pearl_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",无线新闻台
+http://live.catvod.com/smart.php?id=inews_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",凤凰香港
+http://live.catvod.com/smart.php?id=tvbcaijing_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",HOY78台
+http://live.catvod.com/smart.php?id=hoycaijing_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",VIUTV6
+http://live.catvod.com/smart.php?id=viusix_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",VIUTV
+http://live.catvod.com/smart.php?id=viu1_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",TVB星河
+http://live.catvod.com/smart.php?id=Xinhe
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",TVB星河
+http://live.catvod.com/smart.php?id=tvbxinhe_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",RTHK32
+http://live.catvod.com/smart.php?id=rhk32_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",RTHK31
+http://live.catvod.com/smart.php?id=rhk31_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",凤凰卫视
+http://live.catvod.com/smart.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",千禧经典
+http://live.catvod.com/smart.php?id=Tvbclassic
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",AOD
+http://live.catvod.com/smart.php?id=Aodhd
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",TVN
+http://live.catvod.com/smart.php?id=TVN
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",纬来体育
+http://live.catvod.com/smart.php?id=videolandsport
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",纬来日本
+http://live.catvod.com/smart.php?id=videolandjapan
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",纬来电影
+http://live.catvod.com/smart.php?id=videolandmovie
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",天映频道
+http://live.catvod.com/smart.php?id=Celestial
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",探索亚洲
+http://live.catvod.com/smart.php?id=discoverytwn_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",探索频道
+http://live.catvod.com/smart.php?id=ba86fcd935
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",探索
+http://live.catvod.com/smart.php?id=discoverych_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",台视新闻
+http://live.catvod.com/smart.php?id=ttvnews_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",时尚频道
+http://live.catvod.com/smart.php?id=fashiontv_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",中天综合
+http://live.catvod.com/smart.php?id=ctizhonghe
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",中天亚洲
+http://live.catvod.com/smart.php?id=ctiasia_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",中天娱乐
+http://live.catvod.com/smart.php?id=ctient
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",中天新闻
+http://live.catvod.com/smart.php?id=ctinews
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",中视新闻
+http://live.catvod.com/smart.php?id=ca73a13c37
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",亚洲旅游台
+http://live.catvod.com/smart.php?id=asiatravel_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",三立综合台
+http://live.catvod.com/smart.php?id=sanlizhonghe
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",三立戏剧
+http://live.catvod.com/smart.php?id=sanlixiju_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",三立台湾台
+http://live.catvod.com/smart.php?id=sanlitaiwan
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",年代新闻
+http://live.catvod.com/smart.php?id=niandainews_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",民视新闻台
+http://live.catvod.com/smart.php?id=ftvnew_taiwan
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",民视台湾台
+http://live.catvod.com/smart.php?id=ftvtaiwan_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",民视第一台
+http://live.catvod.com/smart.php?id=lunghuajingdian_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",民视
+http://live.catvod.com/smart.php?id=ftvhd_taiwan
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",美亚电影台
+http://live.catvod.com/smart.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",美食星球
+http://live.catvod.com/smart.php?id=foodplanet_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",龙祥时代
+http://live.catvod.com/smart.php?id=lungxiangtime_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",龙祥时代
+http://live.catvod.com/smart.php?id=cb7a1fec69
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",龙华洋片
+http://live.catvod.com/smart.php?id=lunghuawestern_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",龙华戏剧
+http://live.catvod.com/smart.php?id=lunghuaxiju_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",龙华偶像
+http://live.catvod.com/smart.php?id=lunghuaidol_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",龙华电影
+http://live.catvod.com/smart.php?id=xingwei_movie
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",龙华电影
+http://live.catvod.com/smart.php?id=xingwei_movie
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",靖天卡通
+http://live.catvod.com/smart.php?id=jingtiancartoon_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",靖天国际台
+http://live.catvod.com/smart.php?id=jingtianintl_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",寰宇新闻台
+http://live.catvod.com/smart.php?id=huanyuxinwen_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",华艺moc
+http://live.catvod.com/smart.php?id=weishichinese_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",华艺moc
+http://live.catvod.com/smart.php?id=weishichinese_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",华纳TV
+http://live.catvod.com/smart.php?id=WarnerTV
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",好莱坞电影台
+http://live.catvod.com/smart.php?id=hollywoodmovies_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",非凡新闻
+http://live.catvod.com/smart.php?id=feifannews_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",动物星球
+http://live.catvod.com/smart.php?id=animalplanet_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",東森新闻
+http://live.catvod.com/smart.php?id=ettvnews
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",東森戏剧
+http://live.catvod.com/smart.php?id=ettvdrama
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",東森电影台
+http://live.catvod.com/smart.php?id=ettvmovie
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",东森综合台
+http://live.catvod.com/smart.php?id=ettvzhonghe
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",东森洋片
+http://live.catvod.com/smart.php?id=ettvwestern
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",东森超视
+http://live.catvod.com/smart.php?id=ettvsuper
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",东森财经新闻
+http://live.catvod.com/smart.php?id=ettvcaijing_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",大爱
+http://live.catvod.com/smart.php?id=daai_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",博斯运动II
+http://live.catvod.com/smart.php?id=bosisport2_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",博斯网球
+http://live.catvod.com/smart.php?id=bositennis_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",博斯魅力
+http://live.catvod.com/smart.php?id=bosisport1_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",博斯高球II
+http://live.catvod.com/smart.php?id=bosigolf2_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",博斯高球I
+http://live.catvod.com/smart.php?id=bosigolf1_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",八大综合台
+http://live.catvod.com/smart.php?id=badazhonghe
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",八大戏剧台
+http://live.catvod.com/smart.php?id=badadrama
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",八大第1台
+http://live.catvod.com/smart.php?id=badafirst
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",公视
+http://live.catvod.com/smart.php?id=ctv_taiwan
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",爱奇艺
+http://live.catvod.com/smart.php?id=Qiyi
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",WWE
+http://live.catvod.com/smart.php?id=Wwe
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",TVBS新闻台
+http://live.catvod.com/smart.php?id=tvbs_n
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",TVBS欢乐台
+http://live.catvod.com/smart.php?id=tvbshuanle_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",TVBS
+http://live.catvod.com/smart.php?id=tvbs
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",HBO家庭
+http://live.catvod.com/smart.php?id=fyi_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",HBOHD
+http://live.catvod.com/smart.php?id=hbohd_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",HBO
+http://live.catvod.com/smart.php?id=huanyutaiwan_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",HBO
+http://live.catvod.com/smart.php?id=hbosignature_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",HBO
+http://live.catvod.com/smart.php?id=hbohead_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",HBO
+http://live.catvod.com/smart.php?id=Hbo
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",EYE戏剧
+http://live.catvod.com/smart.php?id=eyetvxiju_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",EYE旅游
+http://live.catvod.com/smart.php?id=eyetvtravel_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",ELTA综合
+http://live.catvod.com/smart.php?id=eltazonghe
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",ELTA影剧
+http://live.catvod.com/smart.php?id=eltadrama_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",ELTA体育1台
+http://live.catvod.com/smart.php?id=eltasport1_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",ELTA体育2台
+http://live.catvod.com/smart.php?id=eltasport2_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",ELTA体育3台
+http://live.catvod.com/smart.php?id=eltasport3_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",ELTA体育4台
+http://live.catvod.com/smart.php?id=natgeowild_twn
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",欢喜台
+http://live.catvod.com/smart.php?id=Huahee
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",QJ
+http://live.catvod.com/smart.php?id=Quanjia
+#EXTINF:-1 group-title="亚洲" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",新加坡CNA
+http://live.catvod.com/smart.php?id=cna
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-1
+http://8.134.110.147:55455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-2
+http://8.134.110.147:55455/itv/3000000001000005969.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-3
+http://8.134.110.147:55455/itv/3000000001000007218.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-4
+http://8.134.110.147:55455/itv/3000000001000008001.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-5
+http://8.134.110.147:55455/itv/3000000001000008176.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-6
+http://8.134.110.147:55455/itv/3000000001000008379.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-7
+http://8.134.110.147:55455/itv/3000000001000010129.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-8
+http://8.134.110.147:55455/itv/3000000001000010948.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-9
+http://8.134.110.147:55455/itv/3000000001000028638.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-10
+http://8.134.110.147:55455/itv/3000000001000031494.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-11
+http://8.134.110.147:55455/itv/3000000010000005837.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-12
+http://8.134.110.147:55455/itv/3000000020000011518.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-13
+http://8.134.110.147:55455/itv/3000000020000011519.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-14
+http://8.134.110.147:55455/itv/3000000020000011520.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-15
+http://8.134.110.147:55455/itv/3000000020000011521.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-16
+http://8.134.110.147:55455/itv/3000000020000011522.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-17
+http://8.134.110.147:55455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-18
+http://8.134.110.147:55455/itv/3000000020000011524.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-19
+http://8.134.110.147:55455/itv/3000000020000011525.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-20
+http://8.134.110.147:55455/itv/3000000020000011528.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-21
+http://8.134.110.147:55455/itv/3000000020000011529.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-22
+http://8.134.110.147:55455/itv/3000000020000011530.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-23
+http://8.134.110.147:55455/itv/3000000020000011531.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-24
+http://8.134.110.147:55455/itv/3000000010000000097.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-25
+http://8.134.110.147:55455/itv/3000000010000002019.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-26
+http://8.134.110.147:55455/itv/3000000010000002809.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-27
+http://8.134.110.147:55455/itv/3000000010000003915.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-28
+http://8.134.110.147:55455/itv/3000000010000004193.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-29
+http://8.134.110.147:55455/itv/3000000010000006077.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-30
+http://8.134.110.147:55455/itv/3000000010000006658.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-31
+http://8.134.110.147:55455/itv/3000000010000009788.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-32
+http://8.134.110.147:55455/itv/3000000010000010833.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-33
+http://8.134.110.147:55455/itv/3000000010000011297.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-34
+http://8.134.110.147:55455/itv/3000000010000011518.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-35
+http://8.134.110.147:55455/itv/3000000010000012558.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-36
+http://8.134.110.147:55455/itv/3000000010000012616.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-37
+http://8.134.110.147:55455/itv/3000000010000015470.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-38
+http://8.134.110.147:55455/itv/3000000010000015560.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-39
+http://8.134.110.147:55455/itv/3000000010000017678.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-40
+http://8.134.110.147:55455/itv/3000000010000019839.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-41
+http://8.134.110.147:55455/itv/3000000010000021904.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-42
+http://8.134.110.147:55455/itv/3000000010000023434.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-43
+http://8.134.110.147:55455/itv/3000000010000025380.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-44
+http://8.134.110.147:55455/itv/3000000010000027691.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕咪视通-45
+http://8.134.110.147:55455/itv/3000000010000031669.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕湖南bblive-1
+http://8.134.110.147:55455/itv/2000000003000000060.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕湖南bblive-2
+http://8.134.110.147:55455/itv/2000000003000000061.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕湖南bblive-3
+http://8.134.110.147:55455/itv/2000000003000000062.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕湖南bblive-4
+http://8.134.110.147:55455/itv/2000000003000000063.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕湖南bblive-5
+http://8.134.110.147:55455/itv/2000000003000000064.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕湖南bblive-6
+http://8.134.110.147:55455/itv/2000000003000000065.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕易视腾-1
+http://8.134.110.147:55455/itv/1000000006000270001.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕易视腾-2
+http://8.134.110.147:55455/itv/1000000006000270002.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕易视腾-3
+http://8.134.110.147:55455/itv/1000000006000270003.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕易视腾-4
+http://8.134.110.147:55455/itv/1000000006000270004.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",咪咕易视腾-5
+http://8.134.110.147:55455/itv/1000000006000270005.m3u8?cdn=ystenlive
 
 <=================== INDONESIA =============================>
 
