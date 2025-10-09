@@ -16,7 +16,8 @@
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_PushGuard","searchable":0,"filterable":0,"changeable":1,"playerType":"1","jar": "","ext":{"danmu": true},"timeout":60}
 ],
 "lives":[
-{"name":"Cloudtv","type":0,"url":"https://epg.pw/test_channels.txt", "timeout":10,"ua": "","epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong","logo": "https://epg.112114.xyz/logo/{name}.png"} 
+{"name":"Cloudtv","type":0,"url":"https://epg.pw/test_channels.txt", "timeout":10,"ua": "","epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"MYTV","type":0,"url":"https://glot.io/snippets/h6us7th7ep/raw","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"} 
 ],
 "doh": [
 {"name": "Google","url": "https://dns.google/dns-query","ips": ["8.8.4.4","8.8.8.8","2001:4860:4860::8888","2001:4860:4860::8844"]},
