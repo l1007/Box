@@ -1,0 +1,39 @@
+{
+"spider":"https://github.com/l1007/-/raw/main/lekok.jar;md5;9DB0400A78EBBE50FE5898C6A69DA9E4",
+"logo":"https://github.com/l1007/-/raw/main/pic/lekbox.gif",
+"sites":[
+{"key":"欧克豆瓣","name":"🤓推荐🔎","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1,"ext":"https://github.com/l1007/-/raw/refs/heads/main/pic/douban.json"},
+{"key":"豆瓣","name":"Explorer🔎","type":3,"api":"https://github.com/l1007/Box/raw/main/drpy2.min.js","searchable":0, "quickSearch":0, "filterable":1,  "ext":"https://github.com/l1007/-/raw/refs/heads/main/pic/JS2/js/db-e.js"},
+{"key": "GO代理","name": "⏳GO代理","type": 3,"api": "csp_Jianpian","jar": "https://github.com/l1007/-/raw/main/google.jar;md5;6892F76EA6A10FE0F7C2A1A94AE10793","searchable": 1,"filterable":0,"quickSearch": 1},
+{"key":"金牌弹幕","name":"🌺金牌(搜索)","type":3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","jar":"","ext":{"danmu":true},"timeout":30},
+
+{"key":"💯推荐","name":"💯推荐","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://github.com/l1007/-/raw/main/pic/1.json","playerType":"2"},
+{"key":"2json","name":"💯推荐1","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0, "timeout":30,"ext":"https://github.com/l1007/-/raw/main/pic/2.json"},
+{"key":"3json","name":"️💯推荐3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/l1007/-/raw/refs/heads/main/pic/3.json","playerType":"2"},
+{"key":"2js","name":"💯推荐2","type":3,"api":"https://github.com/l1007/Box/raw/main/drpy2.min.js","ext":"https://github.com/l1007/-/raw/refs/heads/main/pic/2.js","playerType":"2", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
+{"key":"21js","name":"💯高清21","type":3,"api":"https://github.com/l1007/Box/raw/main/drpy2.min.js","ext":"https://github.com/l1007/-/raw/refs/heads/main/pic/21.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
+
+{"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_PushGuard","searchable":0,"filterable":0,"changeable":1,"playerType":"1","jar": "","ext":{"danmu": true},"timeout":60}
+],
+"lives":[
+{"name":"Cloudtv","type":0,"url":"https://epg.pw/test_channels.txt", "timeout":10,"ua": "","epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong","logo": "https://epg.112114.xyz/logo/{name}.png"} 
+],
+"doh": [
+{"name": "Google","url": "https://dns.google/dns-query","ips": ["8.8.4.4","8.8.8.8","2001:4860:4860::8888","2001:4860:4860::8844"]},
+{"name": "Cloudflare","url": "https://cloudflare-dns.com/dns-query","ips": ["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
+{"name": "AdGuard","url": "https://dns.adguard.com/dns-query","ips": ["94.140.14.140","94.140.14.141"]},
+{"name": "DNSWatch","url": "https://resolver2.dns.watch/dns-query","ips": ["84.200.69.80","84.200.70.40"]},
+{"name": "Quad9","url": "https://dns.quad9.net/dns-quer","ips": ["9.9.9.9","149.112.112.112"]}
+],
+"parses": [
+{"name":"哔哩","url":"http://localhost:5705/parse/api/哔哩.js?url=","type":1,"ext":{"flag":["bilibili"]},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"LEKBOX","type":"1","url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=0&url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
+{"name":"-lek-","type":1,"url":"https://2.nxog.eu.org/jx.php?ou=公众号欧歌APP&mz=1&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header": {"User-Agent": "okhttp/4.9.1"}}},
+{"name":"-box-","type":1,"url":"https://3.nxog.eu.org/jx.php?ou=公众号欧歌APP&mz=2&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header": {"User-Agent": "okhttp/4.9.1"}}},
+{"name":"-tvbox-","type":1,"url":"https://2.nxog.eu.org/jx.php?ou=公众号欧歌APP&mz=3&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header": {"User-Agent": "okhttp/4.9.1"}}},
+{"name":"app","type":1,"url":"https://3.nxog.eu.org/jx.php?ou=公众号欧歌APP&mz=4&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header": {"User-Agent": "okhttp/4.9.1"}}},
+{"name":"巧技","type":1,"url":"https://zy.qiaoji8.com/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+{"name":"巧技二","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+{"name":"巧技三","type":1,"url":"https://zy.qiaoji8.com/xiafan.php?url=","ext":{"flag":["QD4K","iyf","duanju","gzcj","GTV","GZYS","weggz","Ace"],"header":{"User-Agent":"okhttp/4.9.1"}}}
+]
+}
